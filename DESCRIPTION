@@ -1,0 +1,19 @@
+Package: dataDriven
+Title: An open access tool to blablabla
+Version: 0.1.0
+Authors@R: 
+    person(given = "Saverio",
+           family = "Francini",
+           role = c("aut", "cre"),
+           email = "saverio.francini@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0001-6991-0289"))
+    person(given = "Agnese",
+           family = "Marcelli",
+           role = c("aut", "cre"),
+           email = "agnese.marcelli@student.unisi.it")
+Description: What the package does (one paragraph).
+Imports: doParallel, foreach, foreign, dplyr, Matrix, raster
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
